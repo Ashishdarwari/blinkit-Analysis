@@ -60,14 +60,15 @@ Improve visibility of smaller outlets with local marketing campaigns. Host commu
 # Geographical Focus:
  Tier 3 locations are performing well, while Tier 1 and Tier 2 require targeted strategies for growth.
 # Outlet Strategy:
-Large outlets are performing better, but smaller outlets need better product mixes and marketing support.
+ Large outlets are performing better, but smaller outlets need better product mixes and marketing support.
 # Future Growth:
-Digital channels can help address stagnation in physical outlet growth and tap into new markets.
-Tools and Technologies
+  Digital channels can help address stagnation in physical outlet growth and tap into new markets.
+# Tools and Technologies
 # Microsoft Excel:
 Used for data organization, analysis, and dashboard creation.
 # Features:
 Pivot Tables, Slicers, Conditional Formatting, and Charts.
+
 
 
 
